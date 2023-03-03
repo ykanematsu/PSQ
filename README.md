@@ -1,3 +1,3 @@
 # PSQ
 
-Welcome
+Welcome to PSQ
