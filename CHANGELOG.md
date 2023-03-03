@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.1.3](https://github.com/ykanematsu/PSQ/compare/v0.1.2...v0.1.3) - 2023-03-03
+- Devel by @ykanematsu in https://github.com/ykanematsu/PSQ/pull/7
+
 ## [v0.1.2](https://github.com/ykanematsu/PSQ/compare/v0.1.1...v0.1.2) - 2023-03-03
 - Fix README by @ykanematsu in https://github.com/ykanematsu/PSQ/pull/5
 
