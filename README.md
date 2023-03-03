@@ -1,3 +1,3 @@
 # PSQ
 
-Welcome to PSQ data
+Welcome to PSQ and bodipy datasets
