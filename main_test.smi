@@ -1,0 +1,7 @@
+*c1c(*)cc(*)cc1
+*c1nc(*)c(*)nc1
+*C1OC(*)C(*)OC1
+[N+]1([O-])=C(*)C=C(*)C=C1*
+[*]C1=CC2=NC3=CC=C([*])C(*)=C3C=C2C=C1
+NC1=CC([*])=CC2=CC([*])=C(*)C=C21
+C1=CC2=C(C=C1[*])C=C(C=C2)[*]
